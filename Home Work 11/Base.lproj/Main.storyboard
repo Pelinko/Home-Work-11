@@ -276,6 +276,10 @@
                             <constraint firstItem="Nae-1M-4fU" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="sdI-pW-mn1"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="editButton" destination="fsf-1S-V25" id="oUv-Nn-7qA"/>
+                        <outlet property="iconAvatar" destination="7Nx-4j-u5E" id="3vD-S9-XDh"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
