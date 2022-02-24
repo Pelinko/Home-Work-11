@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var iconAvatar: UIImageView!
     
-    @IBOutlet weak var editButton: UILabel!
+    @IBOutlet weak var editButton: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
